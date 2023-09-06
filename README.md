@@ -10,7 +10,7 @@ Conocimiento y experiencia en ventas, servicio al cliente, relacionamiento en eq
 <div>
   
     
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="60"  />
           
           
 </div>
